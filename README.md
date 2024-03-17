@@ -1,2 +1,2 @@
 # Dassault-ShrimpMonitoring
-Smart Shrimp Monitoring Robot - Dassault Sytemes Project
+Smart Shrimp Monitoring Robot
